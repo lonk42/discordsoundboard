@@ -1,0 +1,5 @@
+PyQt5~=5.15
+python-vlc~=3.0
+pyqtgraph~=0.13
+numpy~=1.24
+sounddevice~=0.4
